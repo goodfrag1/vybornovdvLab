@@ -1,4 +1,4 @@
 package tech.reliab.course.vybornovdv.bank.service.impl;
 
-public class EmployeeService {
+public interface EmployeeService {
 }
