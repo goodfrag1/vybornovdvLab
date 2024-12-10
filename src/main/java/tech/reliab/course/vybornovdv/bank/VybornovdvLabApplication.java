@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VybornovdvLabApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(VybornovdvLabApplication.class, args);
+
     }
 }
